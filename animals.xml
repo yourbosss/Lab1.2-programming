@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animals>
+  <animal>
+    <name>Лев</name>
+    <weight>190</weight>
+    <foodWeight>7</foodWeight>
+    <foodType>мясо</foodType>
+  </animal>
+  <animal>
+    <name>Тигр</name>
+    <weight>150</weight>
+    <foodWeight>6</foodWeight>
+    <foodType>мясо</foodType>
+  </animal>
+  <animal>
+    <name>Зебра</name>
+    <weight>200</weight>
+    <foodWeight>10</foodWeight>
+    <foodType>трава</foodType>
+  </animal>
+  <animal>
+    <name>Жираф</name>
+    <weight>800</weight>
+    <foodWeight>30</foodWeight>
+    <foodType>трава</foodType>
+  </animal>
+  <animal>
+    <name>Слон</name>
+    <weight>5000</weight>
+    <foodWeight>150</foodWeight>
+    <foodType>трава</foodType>
+  </animal>
+  <animal>
+    <name>Крокодил</name>
+    <weight>500</weight>
+    <foodWeight>10</foodWeight>
+    <foodType>мясо</foodType>
+  </animal>
+  <animal>
+    <name>Пингвин</name>
+    <weight>20</weight>
+    <foodWeight>1</foodWeight>
+    <foodType>рыба</foodType>
+  </animal>
+</animals>
